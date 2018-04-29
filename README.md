@@ -6,7 +6,7 @@ My code samples for the Montreal Mobile .NET Developers user group
 
 You can see the details and the slides here:
 
-http://galasoft.ch/presentations/presentationdetails.cshtml?name=2018014
+http://galasoft.ch/presentations/2018014
 
 # Content
 
